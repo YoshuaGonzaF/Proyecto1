@@ -23,7 +23,7 @@
                     <a href="element.html" class="dropdown-item">Capacidad</a>
                     <a href="element.html" class="dropdown-item">Puesto "docente ,chofer,admin"</a>
                     <a href="element.html" class="dropdown-item">Status</a>
-                    
+
                 </div>
             </div>
             <a href="widget.html" class="nav-item nav-link"><i class="fa fa-th me-2"></i>Widgets</a>
@@ -47,3 +47,4 @@
 </div>
 
 <!-- Sidebar End -->
+//hola qlos
