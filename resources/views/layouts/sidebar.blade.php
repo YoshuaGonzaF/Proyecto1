@@ -16,12 +16,14 @@
             <div class="nav-item dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"><i class="fa fa-laptop me-2"></i>Elements</a>
                 <div class="dropdown-menu bg-transparent border-0">
+
                     <a href="button.html" class="dropdown-item">Marcas</a>
                     <a href="typography.html" class="dropdown-item">Tipos</a>
                     <a href="element.html" class="dropdown-item">Tipo Licencia</a>
                     <a href="element.html" class="dropdown-item">Capacidad</a>
                     <a href="element.html" class="dropdown-item">Puesto "docente ,chofer,admin"</a>
                     <a href="element.html" class="dropdown-item">Status</a>
+                    
                 </div>
             </div>
             <a href="widget.html" class="nav-item nav-link"><i class="fa fa-th me-2"></i>Widgets</a>
@@ -43,4 +45,5 @@
         </div>
     </nav>
 </div>
+
 <!-- Sidebar End -->
